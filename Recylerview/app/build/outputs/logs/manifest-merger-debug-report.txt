@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5363ceb59b7e20a33b1e0f232bbac216/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1bd1f939aba27bab62bc2c7bbbabe3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2e9464dfa2597e202e9dc37aec0a73a2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f93c4b5a8a85a6518371eb01c149969f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6ff84365b9523cfce1ec8131f2852196/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/5be22cb1d94a4329bd0e50cb3da7a09f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6f1d74f6a4468ca449ff22feba6b34b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/901f2d77d5a688c8c766bd542799db0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4e34d5aa78ad802372149fee55908f57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7bdef3aed75c295f8ccc4f7ee8b52b8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b3d501610b3a9a5a1e7cb3ddf4f6811b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ba7686da3e62c1d9971e72618073674c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/16db0f01bd97aa1bc9ac1ef32e2e1eea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7eaa25943532b3e119c239168f360d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7c3a782606351c4f4149f288a81ae545/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb44ecd3a0cdddce4283904f7a6a244d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6143463d92c2a5cf177abf27af94d62a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/dadf484512952c23233436e5738f8bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/78c7fb360f00448c3a87e4e30b1f45aa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7990ae2d6975fac3d197dd8fda227611/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/771e343579c56a35c8f615e26cb15c14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e8161befca658f16e23d8f7c5ec59dfb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f87aca3af9d4bd5d4e71a617d1b9ae63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ae365bdb6219afdbdea9952656f51aa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/663d6c1d7bcb39b33fe8bf1e8a3132cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8ecfe1608a6283a0c442f349974e373d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b23574cc5b6e67a6acca58f01dad40ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f5e3b0b08e224e6a7b10e01d9e15cc9c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ea9611e11e123fc815210b0b8bc41b0a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/871ec052ee68d2c9bb3bc5d832c99b2d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8204ee41c8450fc32ea5d625405e0799/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5363ceb59b7e20a33b1e0f232bbac216/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5363ceb59b7e20a33b1e0f232bbac216/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2e9464dfa2597e202e9dc37aec0a73a2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2e9464dfa2597e202e9dc37aec0a73a2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/78c7fb360f00448c3a87e4e30b1f45aa/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/78c7fb360f00448c3a87e4e30b1f45aa/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7990ae2d6975fac3d197dd8fda227611/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7990ae2d6975fac3d197dd8fda227611/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/78c7fb360f00448c3a87e4e30b1f45aa/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.raywenderlich.listmaker.MainActivity
+ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:14:17-49
+	android:theme
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:13:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5363ceb59b7e20a33b1e0f232bbac216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5363ceb59b7e20a33b1e0f232bbac216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1bd1f939aba27bab62bc2c7bbbabe3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1bd1f939aba27bab62bc2c7bbbabe3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2e9464dfa2597e202e9dc37aec0a73a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2e9464dfa2597e202e9dc37aec0a73a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f93c4b5a8a85a6518371eb01c149969f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f93c4b5a8a85a6518371eb01c149969f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6ff84365b9523cfce1ec8131f2852196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6ff84365b9523cfce1ec8131f2852196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/5be22cb1d94a4329bd0e50cb3da7a09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/5be22cb1d94a4329bd0e50cb3da7a09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6f1d74f6a4468ca449ff22feba6b34b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6f1d74f6a4468ca449ff22feba6b34b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/901f2d77d5a688c8c766bd542799db0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/901f2d77d5a688c8c766bd542799db0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4e34d5aa78ad802372149fee55908f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4e34d5aa78ad802372149fee55908f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7bdef3aed75c295f8ccc4f7ee8b52b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7bdef3aed75c295f8ccc4f7ee8b52b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b3d501610b3a9a5a1e7cb3ddf4f6811b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b3d501610b3a9a5a1e7cb3ddf4f6811b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ba7686da3e62c1d9971e72618073674c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ba7686da3e62c1d9971e72618073674c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/16db0f01bd97aa1bc9ac1ef32e2e1eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/16db0f01bd97aa1bc9ac1ef32e2e1eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7eaa25943532b3e119c239168f360d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7eaa25943532b3e119c239168f360d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7c3a782606351c4f4149f288a81ae545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7c3a782606351c4f4149f288a81ae545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb44ecd3a0cdddce4283904f7a6a244d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb44ecd3a0cdddce4283904f7a6a244d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6143463d92c2a5cf177abf27af94d62a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6143463d92c2a5cf177abf27af94d62a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/dadf484512952c23233436e5738f8bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/dadf484512952c23233436e5738f8bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/78c7fb360f00448c3a87e4e30b1f45aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/78c7fb360f00448c3a87e4e30b1f45aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7990ae2d6975fac3d197dd8fda227611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7990ae2d6975fac3d197dd8fda227611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/771e343579c56a35c8f615e26cb15c14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/771e343579c56a35c8f615e26cb15c14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e8161befca658f16e23d8f7c5ec59dfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e8161befca658f16e23d8f7c5ec59dfb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f87aca3af9d4bd5d4e71a617d1b9ae63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f87aca3af9d4bd5d4e71a617d1b9ae63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ae365bdb6219afdbdea9952656f51aa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ae365bdb6219afdbdea9952656f51aa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/663d6c1d7bcb39b33fe8bf1e8a3132cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/663d6c1d7bcb39b33fe8bf1e8a3132cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8ecfe1608a6283a0c442f349974e373d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8ecfe1608a6283a0c442f349974e373d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b23574cc5b6e67a6acca58f01dad40ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b23574cc5b6e67a6acca58f01dad40ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f5e3b0b08e224e6a7b10e01d9e15cc9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f5e3b0b08e224e6a7b10e01d9e15cc9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ea9611e11e123fc815210b0b8bc41b0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ea9611e11e123fc815210b0b8bc41b0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/871ec052ee68d2c9bb3bc5d832c99b2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/871ec052ee68d2c9bb3bc5d832c99b2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8204ee41c8450fc32ea5d625405e0799/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8204ee41c8450fc32ea5d625405e0799/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ardakazanci/Documents/Android/AndroidSamplePractice/RayAndroidTutorial/Recylerview/app/src/main/AndroidManifest.xml
